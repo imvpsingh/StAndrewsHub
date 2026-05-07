@@ -206,10 +206,10 @@ export default function HomePage() {
               <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="School Activity" className="w-full object-cover transition-transform duration-500 group-hover:scale-105" referrerPolicy="no-referrer" />
             </div>
             <div className="break-inside-avoid rounded-2xl overflow-hidden group">
-              <img src="https://images.unsplash.com/photo-1576016770956-fec9596f27f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Pool" className="w-full object-cover transition-transform duration-500 group-hover:scale-105" referrerPolicy="no-referrer" />
+              <img src="https://images.pexels.com/photos/2705879/pexels-photo-2705879.jpeg?_gl=1*1gktbsq*_ga*MzQ0MjYwNDIyLjE3NzgwODQ5MjE.*_ga_8JE65Q40S6*czE3NzgxMjE0NjMkbzMkZzEkdDE3NzgxMjE2MTgkajM5JGwwJGgw" alt="Pool" className="w-full object-cover transition-transform duration-500 group-hover:scale-105" referrerPolicy="no-referrer" />
             </div>
             <div className="break-inside-avoid rounded-2xl overflow-hidden group">
-              <img src="https://images.unsplash.com/photo-1523580494112-071c16b99b5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Graduation" className="w-full object-cover transition-transform duration-500 group-hover:scale-105" referrerPolicy="no-referrer" />
+              <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Graduation" className="w-full object-cover transition-transform duration-500 group-hover:scale-105" referrerPolicy="no-referrer" />
             </div>
             <div className="break-inside-avoid rounded-2xl overflow-hidden group">
               <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Room" className="w-full object-cover transition-transform duration-500 group-hover:scale-105" referrerPolicy="no-referrer" />
